@@ -1,5 +1,5 @@
 # phonk-virus
-phonk "virus" writen in python   
+phonk NON DESTRUCTIVE "virus" written in python   
 makes the screen shake and go monochrome, with phonk music and a phonk image (like a yt short)  
 
 i've tested it on windows, who knows what else it works on
